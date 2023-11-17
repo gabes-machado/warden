@@ -1,4 +1,4 @@
-# Warden
+# Warden 🧙
 Warden is a web application designed to help minimalists and people with ADHD manage their daily tasks with ease. The app’s interface is simple and intuitive, with a focus on functionality over aesthetics.
 
 The app’s main feature is a to-do list that is optimized for ADHD brains. The list is divided into three categories: High  Priority, Medium Priority and Low Priority. All tasks in the to-do list can be dated and it has color coding for each category.
